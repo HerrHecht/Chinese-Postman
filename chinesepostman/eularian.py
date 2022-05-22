@@ -9,7 +9,6 @@ import copy
 import itertools
 import random
 import sys
-from time import clock
 
 from . import dijkstra, my_math
 from .my_iter import all_unique, flatten_tuples
